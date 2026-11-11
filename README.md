@@ -2,6 +2,8 @@
 
 A Google Earth Engine script using Hansen/UMD Global Forest Change data to track annual forest loss across Sri Lanka and its districts.
 
+> **Note:** This project was created for educational purposes and personal practice with Google Earth Engine spatial analysis.
+
 ## Features
 - **National Trends:** Annual forest loss chart (2001–2025).
 - **District Rankings:** Total historical loss and recent loss (2021–2025) breakdowns.
